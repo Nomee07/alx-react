@@ -1,0 +1,27 @@
+{
+  "name": "0x02-react_props",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nomee07/0x02-react_props.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.6",
+    "@babel/preset-env": "^7.24.6",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "description": "React props",
+  "bugs": {
+    "url": "https://github.com/Nomee07/0x02-react_props/issues"
+  },
+  "homepage": "https://github.com/Nomee07/0x02-react_props#readme",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
